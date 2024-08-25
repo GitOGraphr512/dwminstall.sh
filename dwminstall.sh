@@ -87,4 +87,4 @@ echo "Note: The README.md explains how to edit the ~/.xinitrc file to your needs
 echo "================================="
 echo "dwm and tools should be installed if everything went correctly."
 echo "If you find any bugs in this script or have any questions, comments, or concerns, email me at <gitMailbox123@protonmail.com>, or contact me on Jami: <gentoouser420>"
-echo "Thanks for using my dwm install script :) - GitOGraphr512"
+echo "Thanks for using my dwm install script :)"
