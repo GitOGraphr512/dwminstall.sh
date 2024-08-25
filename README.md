@@ -13,6 +13,4 @@ slstatus &
 
 'background command'
 
-The '&' is critical. If not included at the end of each line as shown, only the first command, 'exec dwm', will run. You would not have a bar or a background.
-
 It is highly recommended to start dwm via a tty with 'startx'. I have not and am not planning to test this dwm config using and display managers such as GDM, SDDM, or Ly.
