@@ -81,7 +81,7 @@ touch ~/.xinitrc
 echo "exec dwm &" > ~/.xinitrc
 echo "slstatus" >> ~/.xinitrc
 echo "Done!"
-echo "Note: Starting dwm with 'startx' through a tty is HIGHLY recommended. I am not planning on testing this dwm config with any display managers such as SDDM or Ly, so I have no idea as to if this config works correctly with DMs."
+echo "Note: Starting dwm with 'startx' through a tty is recommended. I am not planning on testing this dwm config with any display managers such as SDDM or Ly, so I have no idea as to if this config works correctly with DMs."
 echo "Note: The README.md explains how to edit the ~/.xinitrc file to your needs. Read it before asking: 'How do I add a persistant background?' or 'How do I set my brightness to x% at dwm startup?'"
 
 echo "================================="
