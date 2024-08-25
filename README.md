@@ -13,4 +13,4 @@ slstatus &
 
 'background command'
 
-It is highly recommended to start dwm via a tty with 'startx'. I have not and am not planning to test this dwm config using and display managers such as GDM, SDDM, or Ly.
+I've only tested this config with startx. I have not tested any DMs.
