@@ -76,7 +76,7 @@ rm battery.o cpu.o datetime.o disk.o entropy.o hostname.o ip.o kernel_release.o 
 popd
 echo "Done!"
 
-echo "Creating a simple ~/.xinitrc..."
+echo "Creating a basic ~/.xinitrc..."
 touch ~/.xinitrc
 echo "slstatus &" > ~/.xinitrc
 echo "exec dwm" >> ~/.xinitrc
