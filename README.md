@@ -9,7 +9,7 @@ To, for example, have a background persistant across dwm restarts, you must edit
 
 slstatus &
 
-'background command' &
+feh --bg-fill /home/larry/wallpapers/background.jpg &
 
 exec dwm
 
