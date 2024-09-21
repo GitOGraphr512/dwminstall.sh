@@ -1,7 +1,7 @@
 # My dwm install script
 -----------------------
 prerequisites:
-xorg, Xinerama, make, sudo, a modern shell (preferably bash), JetBrainsMono Nerd Font
+xorg, Xinerama, make, sudo, JetBrainsMono Nerd Font
 
 consult your distro's docs for installation instructions
 
@@ -15,4 +15,4 @@ exec dwm
 
 I've only tested this config with startx. I have not tested any DMs.
 
-I will not be telling any dwm noobs how to use dwm. Consult suckless.org or your favorite search engine.
+I will not be telling any dwm noobs how to use dwm. google is free you goof
